@@ -9,7 +9,7 @@ ui <- bslib::page_fluid(
   # App title centered
   titlePanel(
     tags$div(style="text-align:center;",
-             tags$span(style="color:cyan; font-size: 40px;", "R Geospatial Analyst Chatbot by Kanake ☠️")) # Added font-size here
+             tags$span(style="color:cyan; font-size: 40px;", "R Geospatial Analyst Assistant-bot by Kanake ☠️")) # Added font-size here
   ),
   chat_ui("chat")
 )
