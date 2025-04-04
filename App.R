@@ -64,7 +64,7 @@ ui <- bslib::page_fluid(
   titlePanel(
     tags$div(
       style = "text-align:center;",
-      tags$span(style = "color:cyan; font-size: 40px;", "R Geospatial Analyst Chatbot by Kanake ☠️")
+      tags$span(style = "color:cyan; font-size: 40px;", "R Geospatial Assistant-bot by Kanake ☠️")
     )
   ),
   
